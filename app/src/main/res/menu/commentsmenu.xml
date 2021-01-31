@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Plus" android:icon="@drawable/ic_control_point_24px"
+        app:showAsAction="ifRoom" android:id="@+id/mn_plus"></item>
+
+</menu>
